@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Keuangan Harian",
+  "description": "A comprehensive web application for tracking daily income and expenses, featuring a dashboard with charts, detailed transaction management, and balance reports. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
